@@ -1,0 +1,9 @@
+# Documentation
+https://testing-library.com/docs/queries/byrole
+
+https://www.w3.org/TR/html-aria/#index-aria-textbox
+
+https://testing-library.com/
+
+https://github1s.com/gopinav/React-Testing-Tutorial
+
